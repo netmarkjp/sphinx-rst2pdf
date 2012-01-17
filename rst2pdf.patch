@@ -50,3 +50,7 @@
 +        ["literal", { "wordWrap": "None"}],
 +        ["normal",  { "wordWrap": "CJK"}]]
 +}
+--- source/_templates/searchbox.html    2012-01-18 01:44:33.000000000 +0900
++++ source/_templates/searchbox.html    2012-01-18 01:44:39.000000000 +0900
+@@ -0,0 +1 @@
++ 
